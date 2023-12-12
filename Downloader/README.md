@@ -5,7 +5,7 @@
 ## To use this you need python and yt-dlp installed 
 
 ## Then clone the repo 
-`git clone`
+`git clone https://github.com/kjfreidhof/Oneshot.git`
 
 ## Then cd into Downloader if your in Windows MacOS or Linux 
 `python down.py`
