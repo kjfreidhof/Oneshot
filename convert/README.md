@@ -5,7 +5,7 @@
 ## To use this you need python installed and ffmpeg 
 
 ## Then clone the repo
-`git clone`
+`git clone https://github.com/kjfreidhof/Oneshot.git`
 
 ### Then run the script by doing 
 `python convert.py`
