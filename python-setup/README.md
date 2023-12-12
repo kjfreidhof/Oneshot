@@ -3,7 +3,7 @@
 ## This is a script to setup python in linux in oneshot 
 
 ## To use clone the repo
-`git clone`
+`git clone https://github.com/kjfreidhof/Oneshot.git`
 
 ## Then run the script 
 `./py-setup.sh`
